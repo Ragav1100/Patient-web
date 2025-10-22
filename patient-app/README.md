@@ -71,3 +71,42 @@ export default defineConfig([
   },
 ])
 ```
+# Installattion steps:
+
+1.	 cd patient-app
+
+2.	 npm install tailwindcss @tailwindcss/vite
+
+3.	 npm install -D @types/node  
+
+4.	 npx shadcn@latest init
+ 
+5.	 npm install react-icons
+
+6.	 npm install embla-carousel-autoplay --save
+
+7.	 npm install react-router-dom                                                   
+
+8.	 npx shadcn@latest add slider
+
+9.	 npm install react react-dom leaflet
+
+10.	 npx shadcn@latest add input-group
+
+11.	 npx shadcn@latest add badge      
+
+12.	 npx shadcn@latest add carousel
+
+13.	 npx shadcn@latest add select  
+
+14.	npx shadcn@latest add input-otp 
+
+15.	npm install leaflet   
+
+-----------------
+# On a separate terminal
+
+1.	cd patient-app 
+
+2. npm run dev
+
